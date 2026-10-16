@@ -14,3 +14,6 @@ Workflows, apps, and experiments for creating images, video, and audio with loca
 
 ## Applications
 - [Qwen3 TTS App](my-applications/qwen3-tts-app/)
+
+## Audio demo
+[Listen to the Chanakya speech sample](media/audio-demos/chanakya-speech-demo.mp3)
