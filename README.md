@@ -1,2 +1,16 @@
-# local-ai-creative-studio
-An AI-powered creative studio integrating ComfyUI, Qwen3-TTS, character consistency, AI image generation, voice synthesis, and automated storytelling into client-ready applications.
+# Local AI Creative Studio
+
+Workflows, apps, and experiments for creating images, video, and audio with locally run AI models.
+
+## Structure
+- `my-workflows/` - my ComfyUI workflows with docs and examples
+- `my-applications/` - standalone apps I built
+- `external-projects/` - notes and links to third-party tools
+- `media/` - screenshots and audio demos
+
+## Workflows
+- [Character Consistency](my-workflows/character-consistency/)
+- [Cinematic Image Generation](my-workflows/cinematic-image-generation/)
+
+## Applications
+- [Qwen3 TTS App](my-applications/qwen3-tts-app/)
